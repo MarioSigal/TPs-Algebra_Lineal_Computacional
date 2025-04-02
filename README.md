@@ -1,4 +1,4 @@
-Trabajos Prácticos de Algebra Lineal Computacional.
+Trabajos Prácticos de Álgebra Lineal Computacional.
 
 2do cuatrimestre 2023.
 
